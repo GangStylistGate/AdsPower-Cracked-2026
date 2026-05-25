@@ -1,0 +1,30 @@
+    ___    ____  _____ ____  ____ _       ____________ 
+   /   |  / __ \/ ___// __ \/ __ \ |     / / ____/ __ \
+  / /| | / / / /\__ \/ /_/ / / / / | /| / / __/ / /_/ /
+ / ___ |/ /_/ /___/ / ____/ /_/ /| |/ |/ / /___/ _, _/ 
+/_/  |_/_____//____/_/    \____/ |__/|__/_____/_/ |_|  
+                                                       
+
+AdsPower
+
+AdsPower — Multi-Profile Browser
+
+
+About
+- Isolated browser profiles fingerprints and team permissions for ads.
+- Full build: unlimited profiles, RPA automation, API access, cloud sync.
+- Platform: Windows macOS
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://telegra.ph/DOWNLOAD-05-25-23 
+
+**************************************************
+
+
+TAGS
+adspower, browser, automation, marketing, profiles, multi-account, campaigns, rpa, cloud
